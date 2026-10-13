@@ -1,8 +1,0 @@
-{
-  "name": "Remix CUESTA CUESTA MEDICA - Inventario Ortopédico e Instrumental",
-  "description": "Inventario",
-  "requestFramePermissions": [],
-  "majorCapabilities": [
-    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
-  ]
-}
